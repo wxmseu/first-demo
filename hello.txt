@@ -7,6 +7,6 @@ Git is a version control system.
 Git is a version control system.
 Git is a version control system.
 Git is a version control system.
-Git is a version control system.
+Git is a version control system.   hot-fix test
 
 Git is free software.
